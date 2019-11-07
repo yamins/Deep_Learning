@@ -1,6 +1,7 @@
 Deep Learning Course / EE-559
 Project 2: Mini  Deep Learning Framework
 By Clementine Lea Aguet, Yamin Sepehri, and Mahdi Nobar
+Please have a look on the report of the project in the PDF file.
 
 ---->To run our deep learning framework that has been made without any use of PyTorch built-in nn frameworks,
 open the 'test.py' file, make sure that 'main_new_framework.main()'is uncommented and run it. You can also run
