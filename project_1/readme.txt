@@ -1,6 +1,7 @@
 Deep Learning Course / EE-559
 Project 1: Mini-Project 1  Classification, weight sharing, auxiliary losses
 By Clementine Lea Aguet, Yamin Sepehri, and Mahdi Nobar
+Please have a look on the report of the project in the PDF file.
 
 ---->To run the the fully connected model, convolutional model, or deep convolutional model, run test.py and
 make sure that 'main_cnn.main()' is uncommented. You can also run it by running the 'main_cnn.py' directly. 
